@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:TFErvTpSfj3WxiM4Siv9E1Kp2kTsJ8nX3a
-    runs-on: ubuntu-latest
+    runs-on: usdt
 
     strategy:
       matrix:
