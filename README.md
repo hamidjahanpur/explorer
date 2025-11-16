@@ -21,3 +21,4 @@ Run below to start the app:
 ```sh
 pnpm start
 ```
+pnpm start
