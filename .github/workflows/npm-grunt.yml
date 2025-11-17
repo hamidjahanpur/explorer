@@ -1,10 +1,10 @@
 name: NodeJS with Grunt
 
 on:
-  push:
+  push:/.github/workflows/npm-grunt.yml
     branches: [ "main" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "main" ]/.github/workflows/npm-grunt.yml
 
 jobs:
   build:
